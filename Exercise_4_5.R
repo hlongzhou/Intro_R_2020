@@ -156,7 +156,10 @@ batsata_max <- batsata
 
 
 
-
+# This is A VERY long way of doing this
+# Neat script though, keep it up!!
+# Always good to add coments after each line of code as this helps you and the collaborator understand what you are doing
+# Overall mark for day 1: 8/10
 
 
 
